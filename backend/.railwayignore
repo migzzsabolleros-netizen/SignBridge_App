@@ -1,0 +1,14 @@
+# Python virtual environments
+venv/
+venv_broken/
+__pycache__/
+*.pyc
+
+# Local environment variables
+.env
+
+# Git history (if applicable)
+.git/
+
+# Large media/model files (Optional: uncomment if this is huge and not needed on the server)
+girl-virtual-tutor.vrm
